@@ -5,7 +5,7 @@
 
 A modern dashboard for HR teams to manage developer candidates with advanced filtering, sorting, and visualization features.
 
-![Dashboard Preview]([(https://github.com/Desire-2/candidate-dashboard/blob/main/src/assets/Screenshot%202025-04-07%20030358.png)])?text=Dashboard+Preview)
+![Dashboard Preview]((https://github.com/Desire-2/candidate-dashboard/blob/main/src/assets/Screenshot%202025-04-07%20030358.png?text=Dashboard+Preview)
 
 ## Features
 
