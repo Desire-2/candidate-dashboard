@@ -39,7 +39,6 @@ export default function Dashboard() {
       return a.experience.localeCompare(b.experience);
     });
 
-  // Experience summary data
   const experienceData = filteredCandidates.reduce((acc, c) => {
     acc[c.experience] = (acc[c.experience] || 0) + 1;
     return acc;
